@@ -5,6 +5,7 @@ Diese Version ist für beliebige Dienstplan Exceldateien geeignet da man in den E
 sämtliche Koordinaten, an denen die zu extrahierenden Daten stehen, angeben und speichern kann.
 
 
+
 ## Merkmale
 - Plattform: Windows
 - Programmiert in: Delphi
