@@ -15,7 +15,7 @@ sämtliche Koordinaten, an denen die zu extrahierenden Daten stehen, angeben und 
 Veröffentlicht unter der MIT-Lizenz – siehe [LICENSE](./LICENSE).
 
 
-?? [Download der aktuellen Version](https://github.com/es3006/Zeiterfassung-1.0.0.5/releases/latest)
+[Download der aktuellen Version](https://github.com/es3006/Zeiterfassung-1.0.0.5/releases/latest)
 
 
 ## Screenshots
