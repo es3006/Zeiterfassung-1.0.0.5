@@ -1,0 +1,30 @@
+object fSettingsHelp: TfSettingsHelp
+  Left = 0
+  Top = 0
+  Caption = 'Hilfe'
+  ClientHeight = 299
+  ClientWidth = 570
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 0
+    Top = 0
+    Width = 570
+    Height = 299
+    Align = alClient
+    AutoSize = True
+    Center = True
+    Proportional = True
+    ExplicitLeft = 176
+    ExplicitTop = 96
+    ExplicitWidth = 105
+    ExplicitHeight = 105
+  end
+end
