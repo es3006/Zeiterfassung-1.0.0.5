@@ -18,7 +18,8 @@ __history/
 *.pfx
 *.xlsm
 .DS_Store
-git_push.bat
 signieren.bat
 Thumbs.db
-CertumSignApp.bat
+CertumSignApp.bat    
+_github_push.bat
+_github_push_changes.bat
