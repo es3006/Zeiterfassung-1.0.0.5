@@ -45,3 +45,4 @@ Veröffentlicht unter der MIT-Lizenz – siehe [LICENSE](./LICENSE).
 # Zeiterfassung-1.0.0.5 
 # Zeiterfassung-1.0.0.5 
 # Zeiterfassung-1.0.0.5 
+# ESD-Besuchererfassung-1.0.0.5 
