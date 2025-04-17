@@ -39,11 +39,3 @@ Veröffentlicht unter der MIT-Lizenz – siehe [LICENSE](./LICENSE).
 
 **Mitarbeiter:**
 ![Settings Dialog](docs/screenshots/customers-window.png)
-# Zeiterfassung-1.0.0.5 
-# Zeiterfassung-1.0.0.5 
-# Zeiterfassung-1.0.0.5 
-# Zeiterfassung-1.0.0.5 
-# Zeiterfassung-1.0.0.5 
-# Zeiterfassung-1.0.0.5 
-# ESD-Besuchererfassung-1.0.0.5 
-# Zeiterfassung-1.0.0.5 
