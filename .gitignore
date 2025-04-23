@@ -19,7 +19,8 @@ __history/
 *.xlsm
 .DS_Store
 signieren.bat
-Thumbs.db
+Thumbs.db                  
 CertumSignApp.bat    
 _github_push.bat
-_github_push_changes.bat
+_github_push_changes.bat           
+_push.bat

@@ -3,8 +3,7 @@
 Dies ist ein Open Source Delphi-Projekt zur Zeiterfassung mit SQLite und OpenSSL.
 Diese Version ist für beliebige Dienstplan Exceldateien geeignet da man in den Einstellungen des Programms,
 sämtliche Koordinaten, an denen die zu extrahierenden Daten stehen, angeben und speichern kann.
-        
-xxxx       
+            
 
 ## Merkmale
 - Plattform: Windows
